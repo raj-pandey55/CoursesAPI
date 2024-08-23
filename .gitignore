@@ -1,0 +1,25 @@
+
+# Python-related files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Django-related files
+*.sqlite3
+db.sqlite3
+
+# Secret and environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
